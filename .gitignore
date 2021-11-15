@@ -1,3 +1,15 @@
+# Visual Studio
+*.sdf
+*.user
+*.suo
+*.opensdf
+*.db
+*.DS_Store
+Debug/
+ipch/
+x64/
+.vs/
+
 # Prerequisites
 *.d
 
