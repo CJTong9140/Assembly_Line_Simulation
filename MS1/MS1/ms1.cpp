@@ -3,8 +3,6 @@
 #include <string>
 #include <vector>
 #include "Station.h"
-#include "Station.h"
-#include "Utilities.h"
 #include "Utilities.h"
 
 using namespace std;
@@ -22,8 +20,7 @@ int main(int argc, char** argv)
 		cerr << "ERROR: Insufficient number of arguments\n";
 		return 1;
 	}
-	
-	//**************//
+
 	vector<Station> theStations;
 	try
 	{

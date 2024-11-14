@@ -1,22 +1,12 @@
-// Final Project
-// Milestone 3
-// ms3_prof.cpp
-// Winter 2021
-// Chris Szalwinski
 
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
 #include "Station.h"
-#include "Station.h"
-#include "Workstation.h"
 #include "Workstation.h"
 #include "CustomerOrder.h"
-#include "CustomerOrder.h"
 #include "Utilities.h"
-#include "Utilities.h"
-#include "LineManager.h"
 #include "LineManager.h"
 
 using namespace std;

@@ -42,3 +42,19 @@ x64/
 *.exe
 *.out
 *.app
+
+# Ignore IDE settings
+.idea/
+
+# Ignore build directories
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore executables
+ms1
+ms2
+ms3
+
+# Ignore additional CMake build files
+*.o
+*.out

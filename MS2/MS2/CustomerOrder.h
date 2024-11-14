@@ -1,10 +1,7 @@
 //==============================================
-// Name:				CJ Jingren Tong	
-// Seneca Student ID:	152464194
-// Seneca email:		jtong22@myseneca.ca
+// Name:				CJ Jingren Tong
 // Date of completion:	Nov 17th, 2021
-// Section:				OOP345NAA
-// OOP Project 
+// Project: 			Assembly Line Simulation
 // Module:				CustomerOrder
 // Filename:			CustomerOrder.h
 // ----------------------------------------------

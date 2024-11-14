@@ -1,18 +1,9 @@
-// Final Project
-// Milestone 2
-// ms2_prof.cpp
-// Winter 2021
-// Chris Szalwinski
-
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
 #include "Station.h"
-#include "Station.h"
 #include "CustomerOrder.h"
-#include "CustomerOrder.h"
-#include "Utilities.h"
 #include "Utilities.h"
 
 using namespace std;
