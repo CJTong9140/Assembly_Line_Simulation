@@ -1,8 +1,8 @@
 //==============================================
-// Name:				CJ Jingren Tong
-// Date of completion:	Nov 15th, 2021
+// Name:			CJ Jingren Tong
+// Date of completion: 		Nov 15th, 2021
 // Project: 			Assembly Line Simulation
-// Module:				Utilities
+// Module:			Utilities
 // Filename:			Utilities.cpp
 // ----------------------------------------------
 // Revision History
