@@ -9,18 +9,18 @@ object-oriented programming concepts and data management techniques, such as dyn
 This project also applies the Rule of Five for effective resource management.
 
 ## Modules and Key Concepts
-### Module 1 (MS1). Utilities and Station Classes
+### Module 1 ***(MS1)***. Utilities and Station Classes
 - Utilities: A helper module to parse input data and configure the assembly line.
 - Station: Manages individual stations that handle specific items. Each station keeps track of item details, including name, description, serial number, 
 and stock quantity.
 
-### Module 2 (MS2): CustomerOrder Class
+### Module 2 ***(MS2)***: CustomerOrder Class
 - CustomerOrder: Represents customer orders with a list of required items. Orders move from station to station, where each item is either filled or remains 
 unfilled based on station inventory.
 - Utilizes dynamic memory management and the Rule of Five to ensure efficient handling of resources for each order. Algorithms such as std::all_of and std::copy 
 are used to manage order items and ensure data integrity.
 
-### Module 3 (MS3). Workstation and LineManager Modules 
+### Module 3 ***(MS3)***. Workstation and LineManager Modules 
 - Workstation: Connects stations in sequence as an assembly line. Each workstation processes orders, fills items as needed, and forwards orders to the next station.
 - LineManager: Manages the assembly line, directing customer orders through connected workstations based on the requirements specified in AssemblyLine.txt. 
 Orders are categorized as pending, completed, or incomplete.
